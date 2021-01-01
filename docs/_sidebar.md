@@ -1,6 +1,8 @@
 
 - 第一章 Go简介
     - [简介](article/01-introduce.md)
+    - [环境配置](article/02-env.md)
+    - [第一个程序](article/03-hello.md)
 - 第二章 Go基础语法
 - 第三章 Go语言容器
 - 第四章 流程控制
