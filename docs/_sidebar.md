@@ -3,9 +3,8 @@
     - [简介](article/01-introduce.md)
     - [环境配置](article/02-env.md)
     - [第一个程序](article/03-hello.md)
-- 第二章 Go基础语法
-    - [类型](article/04-类型.md)
-- 第三章 Go语言容器
+- [第二章 类型](article/04-类型.md)
+- [第三章 表达方式](article/05-表达方式.md)
 - 第四章 流程控制
 - 第四章 Go语言函数
 - 第四章 Go语言结构体
