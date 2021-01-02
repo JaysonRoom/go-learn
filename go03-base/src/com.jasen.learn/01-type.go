@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"unsafe"
 )
 
 
@@ -83,7 +84,44 @@ func main() {
 	//a,b,c,d,æ,±,,å,­,,
 	//a,b,c,d,汉,字,
 	/**5、指针**/
+	//5.1、使用指针
+	 type datap struct { a int}
+	 var d = datap{3344}
+	 var p *datap
+	 p = &d
+	 fmt.Printf("%p,%v\n",p,p.a)
+	 //输出结果：0xc00000a0c0,3344
+	 //5.2、在 unsafe.Pointer 和任意类型指针间进⾏行转换
+     ptest()
+	fmt.Println()
+	 //输出结果：78 56 34 12
+	 //5.3、指针运算，通过将Pointer转换成uintptr
+	pointCal()
 
+}
+
+func pointCal()  {
+	d := struct {
+		s string
+		x int
+	}{"abd", 99}
+
+	p :=uintptr(unsafe.Pointer(&d))
+	p += unsafe.Offsetof(d.x)
+	p2 :=unsafe.Pointer(p)
+	px :=(*int)(p2)
+	*px = 200
+	fmt.Printf("%#v\n", d)
+}
+
+func ptest()  {
+	//5.2、在 unsafe.Pointer 和任意类型指针间进⾏行转换
+	x :=  0x12345678
+	p1 := unsafe.Pointer(&x)
+	n := (*[4]byte)(p1)
+	for i := 0; i < len(n); i++ {
+		fmt.Printf("%X ", n[i])
+	}
 }
 
 func test() (i int, int string) {

@@ -4,6 +4,7 @@
     <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../docs/article/03-hello.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/article/03-hello.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com.jasen.learn/01-type.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.jasen.learn/01-type.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +226,7 @@
       <workItem from="1609315013513" duration="4220000" />
       <workItem from="1609377053930" duration="6001000" />
       <workItem from="1609515959651" duration="766000" />
-      <workItem from="1609581646367" duration="6479000" />
+      <workItem from="1609581646367" duration="8154000" />
     </task>
     <servers />
   </component>
@@ -237,7 +238,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/src/com.jasen.learn/01-type.go</url>
-          <line>7</line>
+          <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
