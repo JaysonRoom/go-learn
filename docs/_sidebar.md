@@ -5,7 +5,7 @@
     - [第一个程序](article/03-hello.md)
 - [第二章 类型](article/04-类型.md)
 - [第三章 表达方式](article/05-表达方式.md)
-- [第四章 函数](article/05-函数.md)
+- [第四章 函数](article/06-函数.md)
 - [第四章 数据结构](article/07-数据结构.md)
 - 第四章 Go语言结构体
 - 第四章 Go语言接口
