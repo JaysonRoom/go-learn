@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/04-func.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/article/05-表达方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/article/05-表达方式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/article/06-函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/article/06-函数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.jasen.learn/03-array.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.jasen.learn/05-array.go" afterDir="false" />
-    </list>
+    <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +41,7 @@
     <property name="configurable..is.expanded" value="true" />
     <property name="configurable.GoLibrariesConfigurable.is.expanded" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitRTC/hfsfd-rt-range" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitRTC/core-api" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -60,19 +54,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build com.jasen.learn (1)">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="go build 01-type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="go03-base" />
       <working_directory value="$PROJECT_DIR$" />
@@ -254,7 +235,8 @@
       <workItem from="1609581646367" duration="8788000" />
       <workItem from="1609642782021" duration="1856000" />
       <workItem from="1609683788945" duration="6364000" />
-      <workItem from="1609732483216" duration="346000" />
+      <workItem from="1609732483216" duration="1637000" />
+      <workItem from="1609809223734" duration="1928000" />
     </task>
     <servers />
   </component>
