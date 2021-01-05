@@ -1,17 +1,19 @@
 
-- 第一章 Go简介
-    - [简介](article/01-introduce.md)
-    - [环境配置](article/02-env.md)
-    - [第一个程序](article/03-hello.md)
-- [第二章 类型](article/04-类型.md)
-- [第三章 表达方式](article/05-表达方式.md)
-- [第四章 函数](article/06-函数.md)
-- [第四章 数据结构](article/07-数据结构.md)
-- 第四章 Go语言结构体
-- 第四章 Go语言接口
-- 第四章 Go语言包（package）
-- 第四章 Go语言并发
-- 第四章 Go语言反射
-- 第四章 Go语言文件处理
-- 第四章 Go语言编译与工具
- 
+- Go学习笔记
+    - 第一章 Go简介
+        - [简介](article/01-introduce.md)
+        - [环境配置](article/02-env.md)
+        - [第一个程序](article/03-hello.md)
+    - [第二章 类型](article/04-类型.md)
+    - [第三章 表达方式](article/05-表达方式.md)
+    - [第四章 函数](article/06-函数.md)
+    - [第四章 数据结构](article/07-数据结构.md)
+    - 第四章 Go语言结构体
+    - 第四章 Go语言接口
+    - 第四章 Go语言包（package）
+    - 第四章 Go语言并发
+    - 第四章 Go语言反射
+    - 第四章 Go语言文件处理
+    - 第四章 Go语言编译与工具
+- 每日增量
+  - [2020-01-05 new与make区别](daymore/20200105.md)
