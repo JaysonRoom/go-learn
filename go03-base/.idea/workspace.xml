@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="" />
+    <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/06-structData.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/10-ginweb.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
+        <option value="Go File" />
       </list>
     </option>
   </component>
@@ -39,44 +42,58 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable..is.expanded" value="true" />
-    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../GitRTC/core-api" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\goSpace\go03-base\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build com.jasen.learn (1)">
-    <configuration name="go build 01-type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+  <component name="RunManager" selected="Go Build.go build com.jasen.learn">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="06-struct" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="go03-base" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/01-type.go" />
+      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/06-struct.go" />
       <package value="com.jasen.learn" />
       <directory value="$PROJECT_DIR$" />
+      <option name="run" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="go build com.jasen.learn (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 04-func.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go03-base" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/com.jasen.learn/04-func.go" />
       <package value="com.jasen.learn" />
       <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <configuration name="go build com.jasen.learn" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go03-base" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/02-bdfs.go" />
+      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/06-structData.go" />
       <package value="com.jasen.learn" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -212,11 +229,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Go Build.06-struct" />
+      <item itemvalue="Go Build.go build com.jasen.learn" />
+      <item itemvalue="Go Build.go build 04-func.go" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build com.jasen.learn (1)" />
         <item itemvalue="Go Build.go build com.jasen.learn" />
-        <item itemvalue="Go Build.go build 01-type" />
+        <item itemvalue="Go Build.go build 04-func.go" />
+        <item itemvalue="Go Build.06-struct" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +258,11 @@
       <workItem from="1609642782021" duration="1856000" />
       <workItem from="1609683788945" duration="6364000" />
       <workItem from="1609732483216" duration="1637000" />
-      <workItem from="1609809223734" duration="1928000" />
+      <workItem from="1609809223734" duration="2088000" />
+      <workItem from="1609833590330" duration="5148000" />
+      <workItem from="1609897568206" duration="1364000" />
+      <workItem from="1609898942445" duration="60000" />
+      <workItem from="1609899008242" duration="1562000" />
     </task>
     <servers />
   </component>
@@ -250,6 +276,11 @@
           <url>file://$PROJECT_DIR$/src/com.jasen.learn/01-type.go</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/com.jasen.learn/04-func.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
