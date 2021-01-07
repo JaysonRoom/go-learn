@@ -8,7 +8,7 @@
     - [第三章 表达方式](article/05-表达方式.md)
     - [第四章 函数](article/06-函数.md)
     - [第四章 数据结构](article/07-数据结构.md)
-    - 第四章 Go语言结构体
+    - [第四章 接口](article/08-interface.md)
     - 第四章 Go语言接口
     - 第四章 Go语言包（package）
     - 第四章 Go语言并发

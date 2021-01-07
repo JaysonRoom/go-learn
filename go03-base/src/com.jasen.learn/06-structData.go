@@ -7,7 +7,7 @@ type UserInfo struct{
 	age int
 	sex int
 }
-
+// 使用指针方式定义结构体方法
 func (usr *UserInfo) addAge()  {
 	usr.age +=1
 }
