@@ -5,12 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51d76a6c-0d8a-46af-9e39-48a608512841" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/go_build_07_interface_go.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go_build_com_jasen_learn.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/07-interface.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docs/article/xmind/Go-Learn.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/article/xmind/Go-Learn.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com.jasen.learn/06-structData.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/com.jasen.learn/06-structData.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docs/goleetcode/1.两数之和.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go03-base.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/08-timetick.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/11-gorountines.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/12-goRead.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/99-test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.learn/爱云校-第三方关系数据开放文档.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.test/jasen.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com.jasen.test/jasen_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_build_07_interface_go.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go_build_com_jasen_learn.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/cov_report.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/bypass.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/bypasssafe.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/common.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/common_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/config.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/doc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/dump.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/dump_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/dumpcgo_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/dumpnocgo_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/example_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/format.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/format_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/internal_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/internalunsafe_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/spew.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/spew_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/spew/testdata/dumpcgo.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/davecgh/go-spew/test_coverage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/gin-gonic/gin" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/gin-gonic/gin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/go-playground/locales" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/golang/protobuf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/leodido/go-urn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/mattn/go-isatty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/pmezard/go-difflib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/stretchr/testify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/ugorji/go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/LICENSE.libyaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/apic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/decode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/decode_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/emitterc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/encode.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/encode_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/example_embedded_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/limit_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/parserc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/readerc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/resolve.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/scannerc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/sorter.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/suite_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/writerc.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/yaml.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/yamlh.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v2/yamlprivateh.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gopkg.in/yaml.v3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +85,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -47,7 +112,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -69,24 +134,22 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="go build 07-interface.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 12-goRead.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go03-base" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/07-interface.go" />
+      <filePath value="$PROJECT_DIR$/src/com.jasen.learn/12-goRead.go" />
       <package value="com.jasen.learn" />
       <directory value="$PROJECT_DIR$" />
       <output_directory value="$PROJECT_DIR$" />
@@ -225,8 +288,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 07-interface.go" />
-        <item itemvalue="Go Build.go build com.jasen.learn" />
+        <item itemvalue="Go Build.go build 12-goRead.go" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +315,15 @@
       <workItem from="1609899008242" duration="2276000" />
       <workItem from="1609901829501" duration="672000" />
       <workItem from="1609902622117" duration="362000" />
-      <workItem from="1609982194422" duration="3201000" />
+      <workItem from="1609982194422" duration="3800000" />
+      <workItem from="1610100802832" duration="2799000" />
+      <workItem from="1610153633057" duration="1319000" />
+      <workItem from="1610330231241" duration="5181000" />
+      <workItem from="1610376420874" duration="1353000" />
+      <workItem from="1610414596291" duration="609000" />
+      <workItem from="1610506206701" duration="10635000" />
+      <workItem from="1610602305673" duration="2749000" />
+      <workItem from="1610777018242" duration="1491000" />
     </task>
     <servers />
   </component>
@@ -275,6 +345,26 @@
           <url>file://$PROJECT_DIR$/src/com.jasen.learn/04-func.go</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/com.jasen.learn/99-test.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/com.jasen.learn/99-test.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/com.jasen.learn/12-goRead.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/src/com.jasen.learn/12-goRead.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
